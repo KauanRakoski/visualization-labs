@@ -222,7 +222,7 @@ def build_salary_vs_hours_chart(data: pd.DataFrame) -> None:
 
 def build_historical_pyramids(agg_data: pd.DataFrame) -> None:
     st.markdown("---")
-    st.subheader("Evolução de Saldos Empregatícios para o biênio 2018 - 2019")
+    st.subheader("Evolução de Saldos Empregatícios para o biênio 2018 - 2019 no RS")
 
     temp = agg_data.copy()
     temp = temp[temp["faixa_salario"].isin(SALARY_RANGES)]
@@ -258,7 +258,7 @@ def build_historical_pyramids(agg_data: pd.DataFrame) -> None:
             x="saldo",
             y="faixa_salario",
             orientation="h",
-            title=f"Saldo Salarial - {year}",
+            title=f"Saldo Admissões x Desligamentos - {year}",
             category_orders={"faixa_salario": SALARY_RANGES[::-1]},
             color="saldo",
             color_continuous_scale=px.colors.diverging.RdYlGn,
