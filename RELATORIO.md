@@ -24,7 +24,7 @@
 
 ### Legenda (*caption*)
 
-Dois gráficos de pirâmide lado a lado, demonstrando o saldo empregatício (admissões - desligamentos) nos anos de 2018 e 2019, respectivamente, separados por faixa de renda. As faixas de renda são menos que mil reais, entre mil e dois mil reais e acima de três mil reais mensais. O salário mínimo nos anos foi respectivamente R$954,00 e R$998,00. 
+Dois gráficos de pirâmide lado a lado, demonstrando o saldo empregatício (admissões - desligamentos) nos anos de 2018 e 2019 no estado do Rio Grande do Sul, respectivamente, separados por faixa de renda. As faixas de renda são menos que mil reais, entre mil e dois mil reais e acima de três mil reais mensais. O salário mínimo nos anos foi respectivamente R$954,00 e R$998,00. 
 
 ### Conclusão demonstrada pela visualização
 
